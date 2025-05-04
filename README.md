@@ -16,7 +16,7 @@ Microsserviço Spring Boot para cadastro de clientes com **autocompletar de ende
 - **JPA/Hibernate** (ORM)
 - **Maven** (Gerenciamento de dependências)
 
-[![Ferramentas](https://skillicons.dev/icons?i=java,spring,postgresql,git)](https://skillicons.dev)
+  [![Ferramentas](https://skillicons.dev/icons?i=java,spring,postgresql,git)](https://skillicons.dev)
 
 ## 🔌 Endpoints da API
 
